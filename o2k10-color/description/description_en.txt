@@ -1,1 +1,1 @@
-o2k10 Color Palette is Microsoft Office like color palettes.
+o2k10 Color Palette is Microsoft Office 2003, 2010, 2016 compatible color palettes.
