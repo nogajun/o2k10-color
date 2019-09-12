@@ -5,20 +5,20 @@
  xmlns:lo="http://libreoffice.org/extensions/description/2011"
  xmlns:xlink="http://www.w3.org/1999/xlink">
   <identifier value="tv.nofuture.palette.o2k10"/>
-	<version value="0.0.20190326"/>
-	<platform value="all"/>
-    <dependencies>
-        <lo:LibreOffice-minimal-version d:name="LibreOffice 4.4" value="4.4"/>
-    </dependencies>
-    <publisher>
-	    <name xlink:href="http://www.nofuture.tv/diary/">Jun Nogata</name>
-    </publisher>
-	  <display-name>
-      <name lang="en">o2k10 color palette</name>
-      <name lang="ja">o2k10 カラーパレット</name>
-	  </display-name>
-    <extension-description>
-		  <src xlink:href="description/description_en.txt" lang="en"/>
-		  <src xlink:href="description/description_ja.txt" lang="ja"/>
-    </extension-description>
+  <version value="0.0.20190913"/>
+  <platform value="all"/>
+  <dependencies>
+    <lo:LibreOffice-minimal-version d:name="LibreOffice 4.4" value="4.4"/>
+  </dependencies>
+  <publisher>
+    <name xlink:href="http://www.nofuture.tv/diary/">Jun Nogata</name>
+  </publisher>
+  <display-name>
+    <name lang="en">o2k10 color palette</name>
+    <name lang="ja">o2k10 カラーパレット</name>
+  </display-name>
+  <extension-description>
+    <src xlink:href="description/description_en.txt" lang="en"/>
+    <src xlink:href="description/description_ja.txt" lang="ja"/>
+  </extension-description>
 </description>
